@@ -28,15 +28,15 @@ You are tasked with developing a system for a city's Animal Control Department. 
 
 ##### Easy:
 
-<b>1. ArithmeticTest.java</b>
+<b>1. model.ArithmeticTest.java</b>
 
-**Goal**: Write a JUnit test case for Arithmetic.java (addition, subtraction, multiplication, division).
+**Goal**: Write a JUnit test case for model.Arithmetic.java (addition, subtraction, multiplication, division).
 
 **Instructions:**
 
-a. Create a class Arithmetic with methods: add, subtract, multiply, divide.
+a. Create a class model.Arithmetic with methods: add, subtract, multiply, divide.
 
-b. Implement a JUnit test class ArithmeticTest to test the Arithmetic class methods with various inputs.
+b. Implement a JUnit test class model.ArithmeticTest to test the model.Arithmetic class methods with various inputs.
 
 
 <b>2. InvalidAgeException.java</b>
@@ -141,7 +141,7 @@ d. Write the manipulated data to output.csv using FileOutputStream.
 
 a. Create a JUnit test suite class ArithmeticTestSuite.
 
-b. Write multiple test cases for the Arithmetic class.
+b. Write multiple test cases for the model.Arithmetic class.
 
 c. Use annotations to set up and tear down resources before/after tests and test cases.
 
